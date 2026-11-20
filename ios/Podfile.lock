@@ -3,9 +3,9 @@ PODS:
     - ReactNativeDependencies
   - DoubleConversion (1.1.6):
     - ReactNativeDependencies
-  - EXConstants (58.0.15):
+  - EXConstants (58.0.16):
     - ExpoModulesCore
-  - Expo (58.0.23):
+  - Expo (58.0.26):
     - ExpoModulesCore
     - ExpoModulesJSI
     - hermes-engine
@@ -32,19 +32,19 @@ PODS:
     - ReactCommon/turbomodule/core
     - ReactNativeDependencies
     - Yoga
-  - ExpoAsset (58.0.20):
+  - ExpoAsset (58.0.21):
     - ExpoModulesCore
   - ExpoDomWebView (58.0.2):
     - ExpoModulesCore
-  - ExpoFileSystem (58.0.13):
+  - ExpoFileSystem (58.0.14):
     - ExpoModulesCore
-  - ExpoFont (58.0.11):
+  - ExpoFont (58.0.12):
     - ExpoModulesCore
-  - ExpoKeepAwake (58.0.3):
+  - ExpoKeepAwake (58.0.4):
     - ExpoModulesCore
   - ExpoLogBox (58.0.15):
     - React-Core
-  - ExpoModulesCore (58.0.30):
+  - ExpoModulesCore (58.1.0):
     - ExpoModulesJSI
     - hermes-engine
     - RCTRequired
@@ -69,13 +69,13 @@ PODS:
     - ReactCommon/turbomodule/core
     - ReactNativeDependencies
     - Yoga
-  - ExpoModulesJSI (58.0.22):
+  - ExpoModulesJSI (58.0.23):
     - React-Core
     - ReactCommon
-  - ExpoModulesWorklets (58.0.30):
+  - ExpoModulesWorklets (58.1.0):
     - ExpoModulesCore
     - ExpoModulesJSI
-  - ExpoStatusBar (58.0.4):
+  - ExpoStatusBar (58.0.5):
     - ExpoModulesCore
   - fast_float (8.0.0):
     - ReactNativeDependencies
@@ -2250,18 +2250,18 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   boost: 8502bfdc46e2804408af2e163049ece181009af4
   DoubleConversion: 501a575c40c0b50c89685762dd3e415e6bb26fb0
-  EXConstants: c1eb9dab7494834d85aa347165da9718cdfc21a6
-  Expo: 5e153ccf91cc18517c0d0d43c90fd2fdc19eac80
-  ExpoAsset: c080026976ef8f00dca12c4958c658b2ebd4d4e0
+  EXConstants: aeda76f4be923fc719522ae162dd0b8c6483f9cc
+  Expo: 23763d9c59158fd5cae2d5831d3e42576f61f011
+  ExpoAsset: eda9e4844b55b78d4e71a0e2de767a038f3a0806
   ExpoDomWebView: b2a6d681b9d34c23b1f584321386ca8da1d36afb
-  ExpoFileSystem: b619d80b490c53117a9a9c976021a4ce5a9da440
-  ExpoFont: 77eaad26c6a7ef6be8d431963358def09d8e3a73
-  ExpoKeepAwake: fd18a5d233329013c578030ad399d8e10b252b5f
+  ExpoFileSystem: 3f4f423755d1ed5ef084caeb3a62c4a3fca0bf12
+  ExpoFont: daea737a2e3742f9a946f2884518e70dd37011f3
+  ExpoKeepAwake: 3dc7cce59bdc13796f772ac54d3af1ca6b6954cd
   ExpoLogBox: 9bfba7bb99c806b678703e6c62323f3c4785e706
-  ExpoModulesCore: ddbc8431518369c0bffcdc42320855bac0b4f708
-  ExpoModulesJSI: 600554f1b699e994b78398d87a39d477b6cd4bed
-  ExpoModulesWorklets: 25684e76e7b886dd31bf4538c3fd657bf07a694b
-  ExpoStatusBar: 56aa9746e1bee4d8adbab12f4d7efc97000ac49f
+  ExpoModulesCore: 14422e046fbe8669653396d79f8cc2c94dada405
+  ExpoModulesJSI: 6684bdf9d04f2e5e39f6b90189dcb0def22a55d6
+  ExpoModulesWorklets: 03d171c0296cdffc054e9570e9393a7655ef360d
+  ExpoStatusBar: 38eff05a54229c9a388cb56cef29117b8dc77eb1
   fast_float: 7c925d1cebf8328d4018d061f49377e9f887e3b4
   FBLazyVector: 07cb4c5b92110c132f2bb73b908e87f35cbe0a19
   fmt: ba0886e864ebb21d14c98b2e12e164b8002f5b93
